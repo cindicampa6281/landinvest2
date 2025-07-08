@@ -1,0 +1,140 @@
+{ 
+    "time_danh_gia" : 2024 ,
+    "giao_dich_so_cap_ca_nuoc" : {
+        "tong_giao_dich_ca_nuoc" : 47345 ,
+        "san_pham_chao_ban" : 81453 ,
+        "san_pham_chao_ban_nam_truoc: " : 48871 ,
+        "san_pham_chao_ban_moi" : 65376 ,
+        "san_pham_chao_ban_moi_nam_truoc" : 21792 
+    } ,
+    "hochiminh" : {
+        "id_provinces" : 29 ,
+        "tong_giao_dich" : 47000 ,
+        "tong_chao_ban_so_cap" : 7000 ,
+        "ti_le_hap_thu_so_cap" : 72 ,
+        "giao_dich_chung_cu_so_cap" : 5200 ,
+        "tong_giao_dich_chung_cu" : 22000 , 
+        "tong_giao_dich_tho_cu" : 7409 ,
+        "tong_giao_dich_biet_thu_lien_ke" : 18430 ,
+        "giao_dich_chung_cu_cu" : 14600 ,
+        "giao_dich_cac_huyen" : [
+        ]
+    }  ,
+    "hanoi" : {
+        "id_provinces" : 24 ,
+        "tong_giao_dich" : 119198  ,
+        "tong_chao_ban_so_cap" : 30588 ,
+        "ti_le_hap_thu_so_cap" : 85 ,
+        "giao_dich_chung_cu_so_cap" : 24996 ,
+        "tong_giao_dich_chung_cu" : 67000 , 
+        "tong_giao_dich_tho_cu" : 41719 ,
+        "tong_giao_dich_biet_thu_lien_ke" : 5959 ,
+        "giao_dich_chung_cu_cu" : 42004 ,
+        "giao_dich_cac_huyen" : [
+                 {
+                    "tong_giao_dich" : 26000 ,
+                    "chung_cu" : 22880  ,
+                    "tho_cu" : 2860 ,
+                    "lien_ke_biet_thu" : 260 ,
+                    "id_district" : 13 ,
+                    "name" : "nam_tu_liem"
+                } ,
+                {
+                    "tong_giao_dich" : 22000 ,
+                    "chung_cu" : 17600  ,
+                    "tho_cu" : 3960 ,
+                    "lien_ke_biet_thu" : 440 ,
+                    "id_district" : 12 ,
+                    "name" : "gia_lam"
+                },
+                {
+                    "tong_giao_dich" : 15000 ,
+                    "chung_cu" : 4500  ,
+                    "tho_cu" : 8550 ,
+                    "lien_ke_biet_thu" : 1650 ,
+                    "id_district" : 17 ,
+                    "name" : "ha_dong"
+                } ,
+                {
+                    "tong_giao_dich" : 11000 ,
+                    "chung_cu" : 2970  ,
+                    "tho_cu" : 7590 ,
+                    "lien_ke_biet_thu" : 440 ,
+                    "id_district" : 4 ,
+                    "name" :  "long_bien"
+                } ,
+                {
+                    "tong_giao_dich" : 7000 ,
+                    "chung_cu" : 2940  ,
+                    "tho_cu" : 3640 ,
+                    "lien_ke_biet_thu" : 420 ,
+                    "id_district" : 8 ,
+                    "name" :  "hoang_mai"
+                } ,
+                {
+                    "tong_giao_dich" : 4800 ,
+                    "chung_cu" : 1920  ,
+                    "tho_cu" : 2736 ,
+                    "lien_ke_biet_thu" : 144 ,
+                    "id_district" : 15 ,
+                    "name" :  "bac_tu_liem"
+                },
+                {
+                    "tong_giao_dich" : 4600 ,
+                    "chung_cu" : 2208  ,
+                    "tho_cu" : 2116 ,
+                    "lien_ke_biet_thu" : 276 ,
+                    "id_district" : 7 ,
+                    "name" :  "hai_ba_trung"
+                } ,
+                {
+                    "tong_giao_dich" : 4520 ,
+                    "chung_cu" : 2576  ,
+                    "tho_cu" : 1627 ,
+                    "lien_ke_biet_thu" : 316 ,
+                    "id_district" : 9 ,
+                    "name" :  "thanh_xuan"
+                } ,
+                {
+                    "tong_giao_dich" : 4300 ,
+                    "chung_cu" : 2408  ,
+                    "tho_cu" : 1720 ,
+                    "lien_ke_biet_thu" : 172 ,
+                    "id_district" : 5 ,
+                    "name" :  "cau_giay"
+                } ,
+                {
+                    "tong_giao_dich" : 4000 ,
+                    "chung_cu" : 900  ,
+                    "tho_cu" : 3000 ,
+                    "lien_ke_biet_thu" : 100 ,
+                    "id_district" : 6 ,
+                    "name" :  "dong_da"
+                } ,
+                {
+                    "tong_giao_dich" : 3200 ,
+                    "chung_cu" : 1472  ,
+                    "tho_cu" : 1632 ,
+                    "lien_ke_biet_thu" : 96 ,
+                    "id_district" : 3 ,
+                    "name" :  "tay_ho"
+                } ,
+                {
+                    "tong_giao_dich" : 2700 ,
+                    "chung_cu" : 675  ,
+                    "tho_cu" : 1890 ,
+                    "lien_ke_biet_thu" : 135 ,
+                    "id_district" : 1 ,
+                    "name" :  "ba_dinh"
+                } ,
+                {
+                    "tong_giao_dich" : 800 ,
+                    "chung_cu" : 100  ,
+                    "tho_cu" : 800 ,
+                    "lien_ke_biet_thu" : 0 ,
+                    "id_district" : 2 ,
+                    "name" :  "hoan_kiem"
+                }
+        ]
+    }
+}
